@@ -1,0 +1,30 @@
+header{
+    height: 50px;
+    background: lightblue
+    
+}
+
+#first-content{
+    margin-top:20px;
+    padding: 10px;
+}
+
+.content{
+    min-height:50px;
+    background:lavender;
+    margin-bottom:10px;
+}
+
+h1{
+      color: black;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-align: center;
+}
+
+h3{
+    color: black;
+}
+
+body{
+    background-color: white;
+}
